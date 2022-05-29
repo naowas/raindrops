@@ -1,5 +1,5 @@
 {
-    "name": "rashidul/raindrops",
+    "name": "naowas/raindrops",
     "description": "Laravel package to help building enterprize applications",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Rashidul Hasan",
             "email": "rashidul69@gmail.com"
+        },
+        {
+            "name": "Naowas Morshed Eimon",
+            "email": "naowas.morshed@gmail.com"
         }
     ],
     "require": {
